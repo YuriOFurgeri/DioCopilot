@@ -337,8 +337,11 @@ Agora, o jogo deve ser jogável no navegador. Você pode mover as peças com as 
 -------------------------------------------------------CONCLUSÕES SOBRE O TESTE------------------------------------------------------------------------------
 
 O teste inicial foi propositalmente vago, sem passar muitos detalhes, apenas uma imagem e a orientação de "recrie esse jogo para rodar no navegador", então a resposta foram os elementos Web (no caso não foi especificado em organização) porém deu um resultado interessante, pois os elementos se comunicavam e trouxeram algo similar em questão de estilo. Então o segundo fez um reajuste no código, trazendo um resultado ainda mais interessante.
+
 Com poucas instruções o copilot recriou de forma parecida o jogo em questão, o que realmente torna isso interessante é que ele tem o contexto de qual jogo era, portanto foi criada a lógica do jogo apenas com a imagem e o contexto prévio do que seria o jogo pela ferramenta.
 Já que poderia ser qualquer regra, porém ele seguiu a regra original do jogo sem ter especificações de como deve ser jogado, criando também a lógica para as peças e para a pontuação.
+
 Esses outputs podem demonstrar a utilização de ferramentas de copiloto na programação orientada a jogos, trabalhando e auxiliando não só na parte de lógica estrutural da aplicação quanto tambémn no estilo, sendo um grande facilitador. Porém é importante ressaltar o uso como ferramenta, já que podemos ver que ela passou a orientação baseada na premissa do usuário saber sobre a criação de pastas e utilização.
+
 Algo também interessante é a conversa amigável do copiloto que transforma a experiência em algo muito agradável e chamativo para os usuários.
 É uma ferramenta muito poderosa e útil, com a utilização de diversos tipos de dados e a interface de fácil entendimento, pode ser de grande ajuda para quem necessita, e em diversos assuntos por ter o quesito generativo.
